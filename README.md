@@ -116,3 +116,95 @@
 <externallink>https://pastebin.com/raw/QwMXz44p</externallink>
 </item>
 
+
+<item>
+<title>[B][COLOR light green]Araguaia[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4ytxOihgeez1Ad78TSmUfqvVQN.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4ytxOihgeez1Ad78TSmUfqvVQN.jpg</fanart>
+<externallink>https://pastebin.com/raw/GaT4JSjY</externallink>
+</item>
+
+<item>
+<title>[B][COLOR light green]Alta Estação [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://dg31sz3gwrwan.cloudfront.net/poster/342816/1268752-4-optimized.jpg</thumbnail>
+<fanart>https://dg31sz3gwrwan.cloudfront.net/poster/342816/1268752-4-optimized.jpg</fanart>
+<externallink>https://pastebin.com/raw/EFWVEL7k</externallink>
+</item>
+
+
+
+<item>
+<title>[B][COLOR light green]Alto Astral [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6flUqHApZNmvylLqpZLMYAcg187.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6flUqHApZNmvylLqpZLMYAcg187.jpg</fanart>
+<externallink>https://pastebin.com/raw/4xHf6f5b</externallink>
+</item>
+
+<item>
+<title>[B][COLOR light green]As Filhas da Mãe [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7vjAmAlz48ooqo1bO1En1LlnFJr.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7vjAmAlz48ooqo1bO1En1LlnFJr.jpg</fanart>
+<externallink>https://pastebin.com/raw/FeWMxByt</externallink>
+</item>
+
+<item>
+<title>[B][COLOR light green]América [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7mbGz3xHjAf35jWuTUg0bb3mCa.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7mbGz3xHjAf35jWuTUg0bb3mCa.jpg</fanart>
+<externallink>https://pastebin.com/raw/Y8mmWW3Q</externallink>
+</item>
+
+
+
+<item>
+<title>[B][COLOR light green] Baila Comigo [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKLbLnLRZ3nT9IgtBss8YIR5qFb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKLbLnLRZ3nT9IgtBss8YIR5qFb.jpg</fanart>
+<externallink>https://pastebin.com/raw/AH5E8Yj8</externallink>
+</item>
+
+
+<item>
+<title>[B][COLOR light green] Barriga De Aluguel[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvouZFyHNvN03u4HjifELVjZo9K.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvouZFyHNvN03u4HjifELVjZo9K.jpg</fanart>
+<externallink>https://pastebin.com/raw/1TdeVzFx</externallink>
+</item>
+
+
+
+<item>
+<title>[B][COLOR light green]Bebê a Bordo [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRrLvvUcNdC4YYHvkE5KAVwHJiK.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRrLvvUcNdC4YYHvkE5KAVwHJiK.jpg</fanart>
+<externallink>https://pastebin.com/raw/JAXefPqb</externallink>
+</item>
+
+<item>
+<title>[B][COLOR light green]Amor e Revolução [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://media.fstatic.com/IFFQ2-oD4eCcZHveCT2WTskC1VE=/290x478/smart/media/movies/covers/2020/04/20190701155042.jpg</thumbnail>
+<fanart>https://media.fstatic.com/IFFQ2-oD4eCcZHveCT2WTskC1VE=/290x478/smart/media/movies/covers/2020/04/20190701155042.jpg</fanart>
+<externallink>https://pastebin.com/raw/y8br2HLr</externallink>
+</item>
+
+
+
+<item>
+<title>[B][COLOR light green] Belíssima[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mL2PBhy8XbdU1Yl63XT7xFXO36.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mL2PBhy8XbdU1Yl63XT7xFXO36.jpg</fanart>
+<externallink>https://pastebin.com/raw/zQZL0gdw</externallink>
+</item>
+
+
+
