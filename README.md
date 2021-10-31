@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-<item>
-<title>[B][COLOR white][/COLOR][/B]</title>
-<link>http://ignorame</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>
-</item>
 
 
 <item>
