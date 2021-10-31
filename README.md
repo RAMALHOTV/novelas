@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+<item>
+<title>[B][COLOR white]Mulheres de Areia[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Jjx7qo3Kh5O6Gm6bIOws690wtS.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Jjx7qo3Kh5O6Gm6bIOws690wtS.jpg</fanart>
+<externallink>https://pastebin.com/raw/PiKsTi5r</externallink>
+</item>
+
+
+<item>
+<title>[B][COLOR blue]O Rei do Gado[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/O-Rei-do-Gado/main/README.md</externallink>
+</item>
+
+
+
+<item>
+<title>[B][COLOR orange]Os Trapalhões[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLJIp4uDSmtg4RkiIciJnamNWUa.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLJIp4uDSmtg4RkiIciJnamNWUa.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/Os-Trapalh-es/main/README.md</externallink>
+</item>
+
+
+<item>
+<title>[B][COLOR black]Paginas-da-Vida[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dUNbZFmtpIxgjsJGksP3tr2XjkP.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dUNbZFmtpIxgjsJGksP3tr2XjkP.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/Paginas-da-Vida-/main/README.md</externallink>
+</item>
 
 
 <item>
