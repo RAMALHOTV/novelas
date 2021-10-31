@@ -200,4 +200,77 @@
 </item>
 
 
+<item>
+<title>[B][COLOR white]Éramos Seis [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdyfsf9peNrmxb1JtTvEasfSEW6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdyfsf9peNrmxb1JtTvEasfSEW6.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/-ramos-Seis/main/README.md</externallink>
+</item>
+
+<item>
+<title>[B][COLOR white]Escrito nas Estrelas[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqNDI5dS4ju1ygzGOA2HgZqcV8M.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqNDI5dS4ju1ygzGOA2HgZqcV8M.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/Escrito-nas-Estrelas/main/README.md</externallink>
+</item>
+
+
+<item>
+<title>[B][COLOR green]Esmeralda (SBT) [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1MYG82oapbrpvTFPf6I2qW1bds.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1MYG82oapbrpvTFPf6I2qW1bds.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/Esmeralda-SBT-/main/README.md</externallink>
+</item>
+
+<item>
+<title>[B][COLOR white]Êta Mundo Bom![/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tRnQptsengpd82OpXe1ITh8Dwb3.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tRnQptsengpd82OpXe1ITh8Dwb3.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/-ta-Mundo-Bom-/main/README.md</externallink>
+</item>
+
+<item>
+<title>[B][COLOR white]Gabriela[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4OZoWlrM6jYxD1gpYo8e6qbdOS3.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4OZoWlrM6jYxD1gpYo8e6qbdOS3.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/Gabriela/main/README.md</externallink>
+</item>
+
+<item>
+<title>[B][COLOR white]Guerra dos Sexos[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qYG6TH77rJ6JuqALF01rh0CJGGz.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qYG6TH77rJ6JuqALF01rh0CJGGz.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/Guerra-dos-Sexos/main/README.md</externallink>
+</item>
+
+
+<item>
+<title>[B][COLOR red]História de Amor [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ytJwt74jO95v4y0SMiPtPm5Ete3.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ytJwt74jO95v4y0SMiPtPm5Ete3.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/Hist-ria-de-Amor/main/README.md</externallink>
+</item>
+
+<item>
+<title>[B][COLOR white]Brega & Chique[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VToHlX3DsWUb6dyEZU32YNqT2k.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VToHlX3DsWUb6dyEZU32YNqT2k.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/Brega-Chique-/main/README.md</externallink>
+</item>
+
+<item>
+<title>[B][COLOR white]Joia Rara[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8StVdjeNst8eVoHdTqUFX7muEiP.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8StVdjeNst8eVoHdTqUFX7muEiP.jpg</fanart>
+<externallink>https://pastebin.com/raw/Ptu35ivi</externallink>
+</item>
 
