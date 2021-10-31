@@ -308,4 +308,39 @@
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8StVdjeNst8eVoHdTqUFX7muEiP.jpg</fanart>
 <externallink>https://pastebin.com/raw/Ptu35ivi</externallink>
 </item>
+<item>
+<title>[B][COLOR white]Pantanal (Manchete)[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yxBYVTjGLKlPMe2rf3doNvQTkTi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yxBYVTjGLKlPMe2rf3doNvQTkTi.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/Pantanal/main/README.md</externallink>
+</item>
 
+
+
+<item>
+<title>[B][COLOR white]Pé na Jaca [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ttyU5N3cmsXZVcrFAbq1vqejfgv.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ttyU5N3cmsXZVcrFAbq1vqejfgv.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/P-na-Jaca-/main/README.md</externallink>
+</item>
+
+
+<item>
+<title>[B][COLOR white]Salve Jorge [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ue98uJc9ymnKQc4w9SxkOuzn0ST.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ue98uJc9ymnKQc4w9SxkOuzn0ST.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/Salve-Jorge/main/README.md</externallink>
+</item>
+
+
+<item>
+<title>[B][COLOR white]Vamp[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hraqCyi74iv8YfWI0LDl3QSiz9d.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hraqCyi74iv8YfWI0LDl3QSiz9d.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/Vamp-/main/README.md</externallink>
+</item>
+ 
